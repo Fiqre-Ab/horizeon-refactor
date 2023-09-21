@@ -58,7 +58,3 @@ Create a pull request from your forked repository to the original repository.
 ## License
 
 License: This project is licensed by Horiseon
-
-Thank you for using Horiseon Digital Marketing! If you have any questions or feedback, please feel free to contact us.
-
-For more information about our digital marketing services, visit Horiseon Digital Marketing.
