@@ -22,9 +22,9 @@ This README provides an overview of the website's structure and content.
 - Descriptive images and alt text for accessibility.
 - Benefits of digital marketing services explained.
 
-## Screenshots
+## Screenshot
 
-Include screenshots or images of your website here if applicable.
+![Alt Text](assets/images/screen%20shot.png)
 
 ## Installation
 
