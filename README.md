@@ -26,6 +26,7 @@ This README provides an overview of the website's structure and content.
 
 ![Alt Text](assets/images/screen%20shot.png)
 ![Alt Text](assets/images/screenshot2.png)
+![Alt Text](assets/images/screenshot3.png)
 
 ## Installation
 
