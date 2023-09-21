@@ -2,7 +2,7 @@
 
 ## Description
 
-Horiseon Digital Marketing is a website that offers information about various digital marketing services, including Search Engine Optimization (SEO), Online Reputation Management, Social Media Marketing, and their benefits.
+The source code for this project was provided, and I took it upon myself to make significant improvements. I meticulously reworked the HTML code, diligently eliminating duplicated div elements and optimizing the CSS styles. Additionally, I introduced a new section to establish a concise and semantic structure, enhancing both readability and the overall user interface experience.
 
 This README provides an overview of the website's structure and content.
 
@@ -58,4 +58,6 @@ Create a pull request from your forked repository to the original repository.
 
 ## License
 
-License: This project is licensed by Horiseon
+License: This project is licensed by fiqre
+
+[![DEPLOY](https://img.shields.io/badge/DEPLOY-%E2%9C%93-brightgreen)](https://your-github-pages-url-here)
